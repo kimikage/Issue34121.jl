@@ -1,4 +1,5 @@
 using Issue34121, FileIO, ColorTypes
+using ZipFile
 using Test
 
 @testset "Issue34121" begin
