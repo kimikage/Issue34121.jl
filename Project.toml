@@ -6,11 +6,13 @@ version = "0.1.0"
 ImageFiltering = "6a3955dd-da59-5b1f-98d4-e7296123deb5"
 
 [compat]
+FileIO = "1.2.1"
 ImageFiltering = "0.6.8"
 TestImages = "0.6.0"
 julia = "1"
 
 [extras]
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
 ImageMagick = "6218d12a-5da1-5696-b52f-db25d2ecc6d1"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 TestImages = "5e47fb64-e119-507b-a336-dd2b206d9990"
