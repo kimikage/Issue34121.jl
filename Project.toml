@@ -3,9 +3,11 @@ uuid = "4fb0721b-d235-4bee-a81f-75c31d0780c2"
 version = "0.1.0"
 
 [deps]
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
 ImageFiltering = "6a3955dd-da59-5b1f-98d4-e7296123deb5"
 
 [compat]
+FileIO = "1.2.0"
 ImageFiltering = "0.6.8"
 TestImages = "0.6.0"
 julia = "1"
