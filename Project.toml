@@ -6,7 +6,7 @@ version = "0.1.0"
 FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
 
 [compat]
-FileIO = "1.2.0"
+FileIO = "1.2.1"
 TestImages = "0.6.0"
 julia = "1"
 

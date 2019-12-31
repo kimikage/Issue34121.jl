@@ -7,10 +7,10 @@ uuid = "ade2ca70-3891-5945-98fb-dc099432e06a"
 
 [[FileIO]]
 deps = ["Pkg"]
-git-tree-sha1 = "80c17c711c41416eb0ac68347dc036be68b37682"
+git-tree-sha1 = "74585bf1f7ed7259e166011e89f49363d7fa89a6"
 pinned = true
 uuid = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
-version = "1.2.0"
+version = "1.2.1"
 
 [[InteractiveUtils]]
 deps = ["LinearAlgebra", "Markdown"]
